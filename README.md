@@ -178,7 +178,7 @@ exit
 **Stop Vagrant box**
 
 ```
-vagrant down
+vagrant halt
 ```
 
 **Remove Vagrant box**
